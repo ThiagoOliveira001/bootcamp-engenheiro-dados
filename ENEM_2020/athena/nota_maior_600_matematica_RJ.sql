@@ -1,0 +1,1 @@
+select count(*) from enem_glue where sg_uf_esc = 'RJ' and nu_nota_mt > 600 and tp_sexo = 'M'  

@@ -1,0 +1,1 @@
+select avg(nu_nota_ch) from enem_glue where no_municipio_esc = 'Natal'

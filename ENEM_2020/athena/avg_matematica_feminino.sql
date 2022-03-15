@@ -1,0 +1,1 @@
+select avg(nu_nota_mt) from enem_glue where tp_sexo = 'F'
